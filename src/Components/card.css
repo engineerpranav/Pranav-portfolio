@@ -1,0 +1,12 @@
+
+ #cardd{
+    height: 670px;
+ }
+@media only screen and (max-width: 800px) {
+
+#cardd{
+    height:750px;
+
+}
+    
+}
