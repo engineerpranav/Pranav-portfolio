@@ -20,7 +20,7 @@ function Home() {
                     <Text className="hello" fontWeight="750"> Hello, my name is </Text><Text className="pranav"   fontWeight="700">Pranav Purohit</Text>
                     <Flex className='full_stack' fontWeight="700" gap="8px" alignItems="center"><Text  >I'm a </Text><Text width="100%"  fontWeight="700" color="#F40A34" className="text_ani" > Full Stack Developer. </Text></Flex>
 
-                    <a className='resume' href="https://drive.google.com/file/d/1zxtg4RF8uEL5si-yHuC4TFtQWKuDhmDU/view?usp=share_link" target="_blank" > <Box position="relative" left="0%" top="40px"><Button p="20px" border="3px solid #F40A34" padding="20px 30px 20px 30px" onMouseOver={(event) => {
+                    <a className='resume' href="https://drive.google.com/file/d/1JkIaLABfZ9uZGW1n__lcgakO3MnFXitr/view" target="_blank" > <Box position="relative" left="0%" top="40px"><Button p="20px" border="3px solid #F40A34" padding="20px 30px 20px 30px" onMouseOver={(event) => {
 
                         event.target.style.bg = "#f2ebe9";
                         event.target.style.color = "black";
@@ -41,11 +41,7 @@ function Home() {
 
                     {/* <Box bg="#F40A34" marginTop="50px" width="250px" height="250px" borderRadius="50%"  ></Box> */}
 
-
-
-
-
-                    <div  style={{width:"100%", backgroundColor:"#F40A34", borderRadius:"50%",height:"240px",width:"240px", marginTop:"40px"}}><div style={{width:"120%"}}><img style={{ width: "100%" ,margin:"-100px 0px 0px -60px"}} src="/pranav1.png" alt="onee" /></div></div>
+                    <div  style={{width:"100%", borderRadius:"50%",height:"190px",width:"190px", marginTop:"40px"}}><div style={{width:"115%"}}><img style={{ width: "100%",margin:"0px 0px 0px 10px"}} src="/pra_nn.png" alt="onee" /></div></div>
 
                 </Box>
 

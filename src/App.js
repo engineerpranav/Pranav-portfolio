@@ -7,6 +7,7 @@ import About from './Components/About';
 import Portfolio from './Components/Portfolio';
 import Skills from './Components/Skills';
 import { Grid, GridItem,Box,Text } from '@chakra-ui/react';
+import Contact from './Components/Contact';
 
 
 
@@ -44,6 +45,8 @@ function App() {
 
       </Grid>
       </Box>
+
+      <Contact/>
 
 
 

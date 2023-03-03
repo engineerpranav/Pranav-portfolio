@@ -112,7 +112,7 @@ function Navbar() {
 
                 }} transitionProperty="background-Color" transitionDuration="0.4s" transitionTimingFunction="linear"  >CONTACT</Button></a>
 
-                <a href="https://drive.google.com/file/d/1zxtg4RF8uEL5si-yHuC4TFtQWKuDhmDU/view?usp=share_link" target="_blank"> <Button fontSize="16px" fontFamily="Arial, Helvetica Neue, Helvetica, sans-serif" p="20px" colorScheme="none" textColor="black" onMouseOver={(event) => {
+                <a href="https://drive.google.com/file/d/1JkIaLABfZ9uZGW1n__lcgakO3MnFXitr/view" target="_blank"> <Button fontSize="16px" fontFamily="Arial, Helvetica Neue, Helvetica, sans-serif" p="20px" colorScheme="none" textColor="black" onMouseOver={(event) => {
 
                     event.target.style.backgroundColor = "#F40A34"
                     event.target.style.color = "#f2ebe9"
