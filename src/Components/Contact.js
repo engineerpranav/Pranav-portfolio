@@ -15,10 +15,10 @@ function Contact() {
   <a href="mailto:adi089076@gmail.com">
    <img  src="https://github.com/AnupKamble/AnupKamble/blob/main/mail.png?raw=true" width="32px"  />
   </a>
-  <a href="https://www.linkedin.com/in/pranav-purohit-89283221b/">
+  <a href="https://www.linkedin.com/in/pranavp-engineer/">
     <img src="https://cdn.icon-icons.com/icons2/3685/PNG/512/linkedin_logo_icon_229309.png" width="28px" />
   </a>
-  <a href="https://github.com/pranav1432">
+  <a href="https://github.com/pranavp-engineer">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32px" />
   </a>
   </Box>    

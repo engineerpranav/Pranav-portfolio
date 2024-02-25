@@ -32,15 +32,10 @@ function App() {
 <Text>My </Text><Text color="#F40A34">Skills </Text>
 
 </Box>
-      <Grid id="skills_grid" gap={50} w="70%" margin="auto" alignItems="center" marginBottom="100px" >
+      <Grid id="skills_grid" gap={50} w="70%" margin="auto" alignItems="center" marginBottom="100px"  >
 
         {arr.map((ele) => {
-          return <GridItem  data-aos="zoom-in"  data-aos-delay="50" 
-          data-aos-duration="800"
-          data-aos-easing="ease-in-out"
-          data-aos-mirror="true"
-          data-aos-once="false"
-          data-aos-anchor-placement="top-center"   boxShadow="rgba(0, 0, 0, 0.35) 0px 5px 15px"   w="150px" h="160px" display="flex" alignItems="center"  ><Skills skill={ele} /></GridItem>
+          return <GridItem     boxShadow="rgba(0, 0, 0, 0.35) 0px 5px 15px"   w="150px" h="160px" display="flex" alignItems="center"  ><Skills skill={ele} /></GridItem>
         })}
 
       </Grid>
